@@ -117,10 +117,11 @@ a.fill-red:hover      { background-color:#d41e23; text-decoration:none; }
 .fill-darken0         { background-color:rgba(0,0,0,0.10); }
 a.fill-darken0:hover  { background-color:rgba(0,0,0,0.15); }
 .fill-darken1 { background-color:rgba(0,0,0,0.25); }
+.fill-darken2         { background-color:rgba(0,0,0,0.30); }
 
 .fill-chapter {
   /* Replace this with a map of your city */
-  /* background-image:url(img/toronto.png); */
+  /*background-image:url(/gothenburg/img/cover.png); */
   background-repeat:no-repeat;
   background-size:cover;
   max-width:100%;
@@ -205,4 +206,10 @@ a.fill-darken0:hover  { background-color:rgba(0,0,0,0.15); }
   .sidebar, .content { width:100%; }
   .sidebar { padding:0; }
   header .limiter { padding:120px 0 0; }
+}
+
+/*Added CSS*/
+header {
+	background-image: url('/gothenburg/img/cover.png');
+	background-size: cover;
 }

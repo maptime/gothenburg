@@ -2,9 +2,9 @@ baseurl: /gothenburg
 permalink: pretty
 markdown: kramdown
 paginate: 5
-repo: starter
+repo: gothenburg
 github_org: maptime
 maptime:
   chapter: MaptimeGBG
-  twitter: 
+  twitter: MaptimeGBG
   #disqus: YOUR DISQUS USERNAME
