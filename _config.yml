@@ -1,5 +1,6 @@
 baseurl: /gothenburg
 permalink: pretty
+future: true
 markdown: kramdown
 paginate: 5
 repo: gothenburg
